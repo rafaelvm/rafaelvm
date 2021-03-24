@@ -5,7 +5,7 @@
 
 :arrow_forward: Me chamo Rafael Vieira Machado, tenho 23 anos e atualmente resido em São Paulo, Brasil.
 
-:arrow_forward: Graduando em Gestão Ambiental, no último período, mas focado na realocação/transição de carreira para área da tecnologia, mais precisamente em Web Developer - Front-End.
+:arrow_forward: Graduando em Gestão Ambiental, no último período, mas focado na realocação/transição de carreira para área da tecnologia, mais precisamente em Web Developer - Front-end.
 
 ## Technologies :computer:
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
