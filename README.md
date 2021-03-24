@@ -1,13 +1,13 @@
 # Hi, I'm Rafael! :smiley:
 
 
-## About Me
+## About Me :pushpin:
 
 :arrow_forward: Me chamo Rafael Vieira Machado, tenho 23 anos e atualmente resido em São Paulo, Brasil.
 
 :arrow_forward: Graduando em Gestão Ambiental, no último período, mas focado na realocação/transição de carreira para área da tecnologia, mais precisamente em Web Developer - Front-End.
 
-## Technologies
+## Technologies :computer:
 ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +23,7 @@ Curiosity
 
 ![UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
-## Contact Me
+## Contact Me :calling:
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vm/)](https://www.linkedin.com/in/rafael-vm/)
 [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/raffavm/)](https://www.instagram.com/raffavm/)
