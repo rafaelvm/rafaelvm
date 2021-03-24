@@ -19,11 +19,9 @@ Learning
 ![VUE Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08)
 ![BS Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit)
 
+Curiosity
 
-
-● Front-End com HTML e CSS, e aprendendo JavaScript conjuntamente com o framework Vue.js.
-
-● Iniciando no framework Bootstrap e curioso sobre UI Desing.
+![UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ## Contact Me
 
