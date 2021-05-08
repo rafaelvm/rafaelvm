@@ -25,6 +25,7 @@ Learning
 Curiosity
 
 ![UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![FIGMA Badge]((https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact Me :calling:
 
