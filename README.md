@@ -5,9 +5,9 @@
 
 :arrow_forward: Me chamo Rafael Vieira Machado, tenho 24 anos e atualmente resido em São Paulo, Brasil.
 
-:arrow_forward: Graduando em Gestão Ambiental, no último período, mas focado na realocação/transição de carreira para área da tecnologia, mais precisamente em Front-end Web Developer.
+:arrow_forward: Formado em Gestão Ambiental e cursando Pós-graduação em Desenvolvimento Front-end pelo Instituto de Gestão e Tecnologia da Informação - IGTI.
 
-:arrow_forward: Assistente de Desenvolvimento de Software na Conexa Saúde.
+:arrow_forward: Junior Frontend Developer na Conexa Saúde.
 
 ## Technologies :computer:
 ![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
