@@ -1,3 +1,5 @@
+# Hi, I’m Rafael Vieira 😊
+
 # 💫 About Me:
 💼 I’m currently working on Conexa Saúde.<br>🎓 I’m graduated in Environmental Management - USP/EACH.<br>👨‍🎓  I’m post graduate in Front end Development - IGTI.<br>🔭 I’m 25 years old and I’m live in Sao Paulo - Brazil.
 
@@ -10,3 +12,5 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=rafaelvm&icon=2&color=0)](https://visitcount.itsvg.in)
