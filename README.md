@@ -1,7 +1,7 @@
 # Hi, I’m Rafael Vieira 😊
 
 # 💫 About Me:
-💼 I’m currently working on Conexa Saúde.<br>🎓 I’m graduated in Environmental Management - USP/EACH.<br>👨‍🎓  I’m post graduate in Front end Development - IGTI.<br>🔭 I’m 25 years old and I’m live in Sao Paulo - Brazil.
+💼 I’m currently working on Conexa Saúde.<br>🎓 I’m graduated in Environmental Management - USP/EACH.<br>👨‍🎓  I’m post graduate in Front end Development - IGTI.<br>🔭 I’m 28 years old and I’m live in Sao Paulo - Brazil.
 
 
 ## 🌐 Socials:
